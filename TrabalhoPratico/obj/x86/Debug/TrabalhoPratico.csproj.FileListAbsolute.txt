@@ -1,0 +1,204 @@
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.csprojResolveAssemblyReference.cache
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.exe
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.pdb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.exe
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.pdb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\HeightMap.jpg
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.exe
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.pdb
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\HeightMap.xnb
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\Terrain.xnb
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.exe
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.pdb
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Lucas\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\HeightMap.xnb
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\Terrain.xnb
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.exe
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.pdb
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.exe
+C:\Users\Lucas Santos\Desktop\TrabalhoPratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.pdb
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\HeightMap.xnb
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\Terrain.xnb
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.exe
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.pdb
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.dll
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.xml
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.csprojResolveAssemblyReference.cache
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.exe
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.pdb
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.exe
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.pdb
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\engine_diff_tex.xnb
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\engine_diff_tex_0.xnb
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\tank.xnb
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\turret_alt_diff_tex.xnb
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\turret_alt_diff_tex_0.xnb
+G:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\sand.xnb
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\HeightMap.xnb
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\sand.xnb
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\Terrain.xnb
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\engine_diff_tex.xnb
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\engine_diff_tex_0.xnb
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\tank.xnb
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\turret_alt_diff_tex.xnb
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\Content\turret_alt_diff_tex_0.xnb
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.exe
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.pdb
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.dll
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.xml
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\0Escola\2Ano1Semestre 2017\2-Programação 3D\4-Trabalho Pratico\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.csprojResolveAssemblyReference.cache
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.exe
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.pdb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\Content\HeightMap.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\Content\sand.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\Content\Terrain.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\Content\engine_diff_tex.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\Content\engine_diff_tex_0.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\Content\tank.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\Content\turret_alt_diff_tex.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\Content\turret_alt_diff_tex_0.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.exe
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.pdb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalMOD\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.csprojResolveAssemblyReference.cache
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.exe
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.pdb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\obj\x86\Debug\TrabalhoPratico.csprojResolveAssemblyReference.cache
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\Content\HeightMap.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\Content\sand.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\Content\Terrain.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\Content\engine_diff_tex.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\Content\engine_diff_tex_0.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\Content\tank.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\Content\turret_alt_diff_tex.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\Content\turret_alt_diff_tex_0.xnb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.exe
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\TrabalhoPratico.pdb
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Ferna\Desktop\EDJD\2º Ano\1º Semestre\IP3D\4-Trabalho PraticoFinalCamera\TrabalhoPratico\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml

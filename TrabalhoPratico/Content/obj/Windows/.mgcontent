@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ferna/Desktop/EDJD/2º Ano/1º Semestre/IP3D/4-Trabalho PraticoFinalCamera/TrabalhoPratico/Content/HeightMap.jpg</File>
+    <File>C:/Users/Ferna/Desktop/EDJD/2º Ano/1º Semestre/IP3D/4-Trabalho PraticoFinalCamera/TrabalhoPratico/Content/Terrain.jpg</File>
+    <File>C:/Users/Ferna/Desktop/EDJD/2º Ano/1º Semestre/IP3D/4-Trabalho PraticoFinalCamera/TrabalhoPratico/Content/sand.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
